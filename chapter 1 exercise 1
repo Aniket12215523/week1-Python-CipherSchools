@@ -1,0 +1,10 @@
+# *****print these following lines
+print("*****")
+# this is \\ triple backlash
+print("\\\\\\ triple backlash")
+# these are /\/\/\/\/\/\ mountains
+print("/\\/\\/\\/\\/\\/\\")
+# he is brilliant (use escape sequence instead of manual spaces)
+print("he is \texcellent")
+#\" \n \t \p \' (print this as an output)
+print("\\\" \\n \\t \\p \\'")
