@@ -1,0 +1,11 @@
+#take comma separated cinput from user
+# 1} user's name
+# 2} a single character
+
+# output - print 2 lines:
+# 1} user's name length
+# 2} count character that user inputed
+
+name,char=input("name of user and char: ").split(",")
+print(len(name))
+print(name.count(char))
