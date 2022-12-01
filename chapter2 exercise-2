@@ -1,0 +1,4 @@
+#input user name and print back user name in reverse order
+#use string formatting
+name=str(input("enetr your name: "))
+print(f"reverse of name is: {name[::-1]}")
